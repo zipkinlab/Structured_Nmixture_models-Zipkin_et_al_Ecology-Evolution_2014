@@ -1,5 +1,4 @@
-# [Inferences about population dynamics from count data using multistate models: a comparison to capture-recapture approaches]
-(https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.942)
+# [Inferences about population dynamics from count data using multistate models: a comparison to capture-recapture approaches](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.942)
 
 ### Elise F. Zipkin, T. Scott Sillett, Evan H. Campbell Grant, Richard B. Chandler, J. Andrew Royle 
 
